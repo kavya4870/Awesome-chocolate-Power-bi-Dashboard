@@ -27,6 +27,8 @@ Supported profitability tracking at both product and salesperson levels for bett
 - **Top Products:** Organic Choco Syrup, Caramel Stuffed Bars, Smooth Silky Salty, etc.  
 - **Top Salespersons:** Ponnan, Suman, Duran, John, Dinanath, Subbarao  
 - **Geography Analysis:** India, USA, UK, Australia, etc.
+- Dashboard link:
+- https://github.com/kavya4870/Awesome-chocolate-Power-bi-Dashboard/blob/main/Dashboard%20image.png
   
 
 
